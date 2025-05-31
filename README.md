@@ -1,15 +1,7 @@
 ### Hi there 👋
 
-**AaronHChoi/AaronHChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game developer focused on production and planning, with experience leading academic and personal projects using HacknPlan, Unity, Trello, and GitHub. Passionate about building engaging player experiences and keeping teams aligned and motivated.
 
-Here are some ideas to get you started:
+🎲 Fan of board games and TTRPGs like Warhammer, D&D, Lancer, Root, and Cain — always inspired by systems design and storytelling.
 
-- 🔭 I’m currently working on ... Game develoment
-- 🌱 I’m currently learning ... Game develoment
-- 👯 I’m looking to collaborate on ... Game develoment
-- 🤔 I’m looking for help with ... Game develoment
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
-
+🚀 Currently seeking opportunities in game development to grow as a producer or designer and collaborate on meaningful projects.
